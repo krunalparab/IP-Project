@@ -12,6 +12,16 @@
     margin-bottom: 40px;
     border: 1px solid var(--primary-color);
   }
+
+  @media (max-width: 600px) {
+    .filter-card {
+      flex-direction: row;
+      justify-content: space-between;
+      padding-bottom: 0;
+      height: 100px;
+      max-width: 340px;
+    }
+  }
   .wrapper {
     width: 500px;
     height: 100px;
