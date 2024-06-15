@@ -44,6 +44,15 @@ export const eventList = [
         "Experience the most anticipated gathering of comic enthusiasts! Epic Comic Con invites you to immerse yourself in a realm where heroes and villains collide. Unveil exclusive collectibles, join panels with renowned artists, and witness legendary cosplayers bring your favorite characters to life. Whether you're a seasoned comic collector or just starting your journey, this event guarantees an epic adventure!",
       img: "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29taWNzfGVufDB8fDB8fHww",
     },
+    {
+      id: 6,
+      heading: "Epic Comic Con",
+      date: { year: 2025, month: "January" },
+      location: "Mumbai, India",
+      description:
+        "Experience the most anticipated gathering of comic enthusiasts! Epic Comic Con invites you to immerse yourself in a realm where heroes and villains collide. Unveil exclusive collectibles, join panels with renowned artists, and witness legendary cosplayers bring your favorite characters to life. Whether you're a seasoned comic collector or just starting your journey, this event guarantees an epic adventure!",
+      img: "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29taWNzfGVufDB8fDB8fHww",
+    },
     
   ];
   
